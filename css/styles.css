@@ -1,0 +1,58 @@
+
+h1 {
+    color: green;
+}
+
+p {
+    font-style: italic;
+}
+
+.titulo {
+    color: red;
+    text-align: center;
+    font-size: 24px;
+}
+
+.caja-amarilla {
+    background-color: yellow;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 15px;
+}
+
+#parrafo-unico {
+    color: blue;
+    font-weight: bold;
+    border: 3px solid red;
+    padding: 10px;
+}
+.boton-verde {
+    background-color: green;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.borde {
+    border: 2px solid black;
+}
+
+.fondo {
+    background-color: #ccc;
+}
+
+.redondeado {
+    border-radius: 15px;
+}
+
+.sombra {
+    box-shadow: 4px 4px 10px gray;
+}
+
+.contenedor {
+    padding: 20px;
+    margin-top: 20px;
+}
+
